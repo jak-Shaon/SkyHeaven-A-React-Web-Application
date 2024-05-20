@@ -1,4 +1,4 @@
-#SkyHeaven
+<h1>SkyHeaven</h1>
 For starting both server and Client
 Run: npm start
 
